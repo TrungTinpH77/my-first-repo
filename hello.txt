@@ -1,3 +1,4 @@
 Hello, Git!
 Edited online: Team A!
 Edited locally: Team B!Team C edit!
+Edited locally: Team B!
